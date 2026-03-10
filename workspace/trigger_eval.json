@@ -1,0 +1,22 @@
+[
+  {"query": "帮我写一个系统分析文档，关于一个新的电商平台订单管理系统，需要处理高并发订单和多种支付方式", "should_trigger": true},
+  {"query": "我需要一个微服务架构的系统分析文档，用于实时数据分析需求", "should_trigger": true},
+  {"query": "为用户权限管理系统重构写一份系统分析文档", "should_trigger": true},
+  {"query": "我需要写一份系分文档，关于订单管理系统", "should_trigger": true},
+  {"query": "帮我做个系统架构设计文档", "should_trigger": true},
+  {"query": "写一个技术方案文档", "should_trigger": true},
+  {"query": "创建一个系统设计文档", "should_trigger": true},
+  {"query": "我需要做一个系统分析，关于支付系统改造", "should_trigger": true},
+  {"query": "帮忙写个系分", "should_trigger": true},
+  {"query": "做一份系统设计方案", "should_trigger": true},
+  {"query": "如何搭建一个后端项目", "should_trigger": false},
+  {"query": "修复这个bug", "should_trigger": false},
+  {"query": "解释这段代码", "should_trigger": false},
+  {"query": "写一个函数计算数组和", "should_trigger": false},
+  {"query": "帮我查一下这个错误", "should_trigger": false},
+  {"query": "什么是微服务", "should_trigger": false},
+  {"query": "给我推荐一些设计模式", "should_trigger": false},
+  {"query": "如何优化SQL查询", "should_trigger": false},
+  {"query": "安装Node.js", "should_trigger": false},
+  {"query": "配置开发环境", "should_trigger": false}
+]
